@@ -34,7 +34,7 @@ A simple e-commerce application clone of Flipkart built using React.js for the f
 2. **Navigate to the project directory:**
 
    ```bash
-   cd flipkart-clone
+   cd E-Commerce
    ```
 
 3. **Install dependencies:**
