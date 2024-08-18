@@ -1,5 +1,5 @@
 # Flipkart Clone - [DEMO](https://e-commerce-shivam3223s-projects.vercel.app/)
-### Backend - [Github](https://github.com/SHIVAM3223/Database) [Vercel](https://db-one-delta.vercel.app/)
+### Backend - [Github](https://github.com/SHIVAM3223/Database) | [Vercel](https://db-one-delta.vercel.app/)
 
 A simple e-commerce application clone of Flipkart built using React.js for the frontend and JSON Server for the backend. This project demonstrates how to create a basic shopping platform with product listings, cart functionality, and user management.
 
