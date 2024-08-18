@@ -1,7 +1,7 @@
 {
   "version": 2,
   "functions": {
-    "api/server.js": {
+    "server.js": {
       "memory": 1024,
       "includeFiles": "dbhome.json"
     }
@@ -9,7 +9,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/api/server.js"
+      "destination": "server.js"
     }
   ]
 }
