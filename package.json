@@ -39,7 +39,7 @@
     "eject": "react-scripts eject",
     "start": "concurrently \"npm run start-frontend\" \"npm run start-backend\"",
     "start-frontend": "react-scripts start",
-    "start-backend": "node server.js"
+    "start-backend": "node api/server.js"
   },
   "eslintConfig": {
     "extends": [
